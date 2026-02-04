@@ -15,4 +15,4 @@ Dự án được thực hiện trong quá trình thực tập, xây dựng webs
 - HTML / CSS / JavaScript
 
 ## Tài liệu chi tiết
-Tài liệu hệ thống (database, logic PHP, hướng dẫn sử dụng) nằm tại:docs/index.html
+Tài liệu hệ thống (database, logic PHP, hướng dẫn sử dụng) nằm tại: docs/index.html
